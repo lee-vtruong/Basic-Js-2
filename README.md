@@ -3,7 +3,7 @@
 This project contains a series of DOM manipulation exercises implemented using HTML, CSS, and JavaScript. It provides a practical way to understand and practice fundamental DOM concepts, focusing on event handling, form input, and dynamic content updates.
 
 ## Live Demo:
-[Click here](https://basic-js-theta.vercel.app/)
+[Click here](https://basic-js-2-steel.vercel.app/)
 
 ## Table of Contents
 
